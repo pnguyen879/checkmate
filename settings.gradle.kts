@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "checkmate"
-include ':app'
+include(":app")
