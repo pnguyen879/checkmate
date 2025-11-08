@@ -13,7 +13,7 @@ Fairphone key, or 2) changing the package name to install it as a separate app.
 ## Building
 
 > **Note:**
-We assume that the remote repository of Fairphone is called **origin**.
+We assume that the remote repository is called **origin**.
 
 Make sure that you have the latest changes available:
 ```git fetch origin --tags```
@@ -33,7 +33,7 @@ reports are generated and located in `app/build/reports/`.
 ## Developing
 
 > **Note:**
-We assume that the remote repository of Fairphone is called **origin**.
+We assume that the remote repository is called **origin**.
 
 Make sure that you have the latest changes available:
 ```git fetch origin --tags```
