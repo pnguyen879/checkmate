@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FP2-Checkup"
+rootProject.name = "checkmate"
 include ':app'

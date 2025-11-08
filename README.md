@@ -1,4 +1,4 @@
-# Fairphone Checkup
+# checkmate
 
 Hardware diagnostics app originally designed for the [Fairphone 2][fairphone2].
 

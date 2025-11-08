@@ -1,9 +1,9 @@
-# Contributing to Fairphone Checkup
+# checkmate
 
 Make sure to have a look at the README.md file, it explains the development workflow for this
 project.
 
-All contributions and bugs can be submitted in our [bug tracker](https://bugtracker.fairphone.com/).
+All contributions and bugs can be submitted via [pull request](https://github.com/pnguyen879/checkmate/pulls).
 Even small issues such as spelling mistakes can be made into a bug.
 
 > **Note:**
